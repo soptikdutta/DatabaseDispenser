@@ -1,0 +1,1 @@
+c:\users\sdutta\documents\visual studio 2015\Projects\DatabaseDispenser\DatabaseDispenser\obj\x64\Debug\DatabaseDispenser.sfprojResolveAssemblyReference.cache
